@@ -19,4 +19,4 @@ console.log("email:",array[2]);
 console.log("phoneno:",array[3]);
 console.log("rollno:",array[4]);
 });
-});
+
